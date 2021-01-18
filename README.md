@@ -1,4 +1,4 @@
-# steel-temperature-prediction
+# Steel-Temperature-Prediction
 In order to optimize production costs, the steel plant Steelproof decided to reduce their energy consumption at the steel processing stage. We have to develop a model that will be able to predict the temperature of the metal.
 ### **The Steps of Steel Processing:**
 Steel is processed in a metal ladle that has a capacity of about 100 tons. In order for the ladle to withstand high temperatures, it is lined with refractory bricks on the inside. Molten steel is poured into the ladle and heated to the desired temperature with graphite electrodes located on the lid.
