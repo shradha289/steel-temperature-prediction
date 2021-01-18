@@ -13,6 +13,6 @@ The data consists of files obtained from different sources:
 - `data_gas_en.csv` — gas purge data
 - `data_temp_en.csv` — temperature measurement results
 - `data_wire_en.csv` — wire materials data (volume)
-- `data_wire_time_en.csv` — wire materials data (time)
+- `data_wire_time_en.csv` — wire materials data (time)\
 In each file, the key column contains the batch number.
 There may be several rows with the same `key` value in the files. These values correspond to different processing iterations.
